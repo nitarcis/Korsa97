@@ -18,4 +18,8 @@ public class Main {
     static void euOdeioJavaTambem(){
         System.out.println("me ajuda pelo amor de Deus");
     }
+
+    static boolean cSharpEMelhor(){
+        return true;
+    }
 }
